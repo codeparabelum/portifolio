@@ -19,7 +19,7 @@ Este projeto tem como finalidade criar um portfólio digital que funcione como c
 - HTML5
 - CSS3
 - JavaScript
-- [Opcional] React 
+- React 
 
 ---
 
